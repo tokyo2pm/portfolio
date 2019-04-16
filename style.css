@@ -113,7 +113,7 @@ footer small {
 }
 
 #index {
-  background-image: url(../images/back.jpg);
+  background-image: url(back.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -125,7 +125,7 @@ footer small {
 
 #about {
   background-color: #fffffc;
-  background-image: url(../images/back3.png);
+  background-image: url(back3.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -153,7 +153,7 @@ footer small {
 
 #work {
   background-color: #fffffc;
-  background-image: url(../images/back3.png);
+  background-image: url(back3.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -175,7 +175,7 @@ footer small {
 
 #contact {
   background-color: #fffffc;
-  background-image: url(../images/back3.png);
+  background-image: url(back3.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
