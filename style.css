@@ -113,7 +113,7 @@ footer small {
 }
 
 #index {
-  background-image: url(back.jpg);
+  background-image: url(https://github.com/tokyo2pm/portfolio/blob/master/back.jpg?raw=true);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
