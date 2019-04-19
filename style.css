@@ -29,6 +29,7 @@ a: {
   display: inline-block;
   transition: .3s;
 }
+
 a::after {
   position: absolute;
   bottom: 0;
@@ -41,6 +42,7 @@ a::after {
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
 }
+
 a:hover::after {
   width: 100%;
 }
