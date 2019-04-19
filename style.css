@@ -57,9 +57,7 @@ header {
   
 }
 
-a:hover:not(.logo){
-　text-decoration: none;
-}
+
 
 .global-nav {
   float: right;
