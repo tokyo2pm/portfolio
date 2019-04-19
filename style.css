@@ -60,6 +60,10 @@ header {
   color: #282828
 }
 
+.global-nev li a:hover {
+  color: #7c7979;
+}
+
 #wrap {
   clear: both;
   padding:35px 0;
