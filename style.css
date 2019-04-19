@@ -65,7 +65,7 @@ header {
 }
 
 .global-nav li a:hover {
-  border-bottom: 2px solid #282828;
+  border-bottom: 1px solid #282828;
   padding-bottom: 3px;
   text-decoration: none;
 }
