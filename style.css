@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #cccccc;
-  color: #fffffc;
+  color: #4e4449;
   font-size: 15px;
   line-height: 2;
 }
@@ -23,7 +23,7 @@ ul {
 }
 
 a:not(.logo) {
-  color: #fffffc;
+  color: #4e4449;
   text-decoration: none;
   position: relative;
   display: inline-block;
