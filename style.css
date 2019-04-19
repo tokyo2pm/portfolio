@@ -22,7 +22,7 @@ ul {
   padding: 0;
 }
 
-a:not(.logo) {
+a: {
   color: #4e4449;
   text-decoration: none;
   position: relative;
