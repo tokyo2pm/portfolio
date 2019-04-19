@@ -54,7 +54,7 @@ header {
 .logo {
   float: left;
   margin-top: 50px;
-  pointer-events: none;
+  display:block;
   
 }
 
