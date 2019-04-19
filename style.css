@@ -23,7 +23,12 @@ ul {
 }
 
 a {
-  transition: color: #afafb0;
+  color #afafb0;
+  text-decolation: none;
+}
+
+a:hover {
+  text-decolation: underline;
 }
 
 header {
