@@ -150,6 +150,12 @@ footer small {
   float: right;
 }
 
+.clearfix:after {
+  content:"";
+  display:block;
+  clear: both;
+}
+
 #index #wrap {
   background-color: transparent;
   margin-top: 0;
