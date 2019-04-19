@@ -214,3 +214,7 @@ a img:hover {
   font-size: 15px;
   color:#4e4449;
 }
+
+
+@media screen and (max-width:600px) {
+}
