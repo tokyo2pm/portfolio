@@ -137,6 +137,15 @@ footer small {
   margin: 0 auto;
 }
 
+#about .about-txt {
+  width: 540px;
+  float: left;
+}
+
+#about .about-image {
+  float: right;
+}
+
 #index #wrap {
   background-color: transparent;
   margin-top: 0;
