@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-  color: #7c7979;
+  text-decoration: underline;
 }
 
 header {
@@ -184,7 +184,7 @@ footer small {
 }
 
 a img:hover {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 #contact {
