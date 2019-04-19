@@ -122,8 +122,11 @@ footer small {
 
 #about p {
   font-family: 'Quicksand', sans-serif;
-  font-size: 20px;
+  font-size: 12px;
   color:#4e4449;
+}
+
+.main-center {
 }
 
 #index #wrap {
