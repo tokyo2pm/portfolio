@@ -22,28 +22,8 @@ ul {
   padding: 0;
 }
 
-a: {
-  color: #4e4449;
-  position: relative;
-  display: inline-block;
-  transition: .3s;
-}
-
-a::after {
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  content: '';
-  width: 0;
-  height: 1px;
-  background-color: #afafb0;
-  transition: .3s;
-  -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
-}
-
-a:hover::after {
-  width: 100%;
+a {
+  transition: color: #afafb0;
 }
 
 header {
