@@ -23,12 +23,12 @@ ul {
 }
 
 a {
-  color #afafb0;
+  color: #282828;
   text-decolation: none;
 }
 
 a:hover {
-  text-decolation: underline;
+  color: #7c7979
 }
 
 header {
@@ -57,7 +57,7 @@ header {
 }
 
 .global-nav li a {
-  color: #4e4449
+  color: #282828
 }
 
 #wrap {
