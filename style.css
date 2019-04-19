@@ -62,6 +62,7 @@ header {
 
 #wrap {
   clear: both;
+  padding:35px 0;
 }
 
 .content {
@@ -132,6 +133,8 @@ footer small {
 }
 
 .main-center {
+  width: 940px;
+  margin: 0 auto;
 }
 
 #index #wrap {
