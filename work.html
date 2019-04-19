@@ -6,24 +6,16 @@
 <title>about|miyu</title>
 <link href="https://fonts.googleapis.com/css?family=Quicksand:400,700|M PLUS Rounded 1c" rel="stylesheet">
 <link href="style.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script type="text/javascript">
+  $(function(){
+    $("#header").load("./header.html");
+  })
+</script>
 </head>
 <body id="work">
   
-  <!-- header始まり-->
-  <header>
-　　<div class="logo">
-　　<a href="index.html"><img src="https://github.com/tokyo2pm/portfolio/blob/master/logo-2.png?raw=true" alt="miyu"></a>
-　　</div>
-　　<nav>
-　　 <ul class="global-nav">
-  　　<li><a href="about.html">About</a></li>
-　　  <li><a href="work.html">Work
-      </a></li>
-　　  <li><a href="contact.html">Contact</a></li>
-    </ul>
-    </nav>
-  </header>
-  <!-- header終わり-->
+  <div id="header"></div>
   
   <!-- wrap始まり-->
   <div id="wrap">
