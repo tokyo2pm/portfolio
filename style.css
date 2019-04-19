@@ -64,8 +64,8 @@ header {
   color: #282828
 }
 
-.global-nev li a:hover {
-  border-bottom:2px solid #282828;
+.global-nav li a:hover {
+  border-bottom: 2px solid #282828;
   padding-bottom: 3px;
   text-decoration: none;
 }
