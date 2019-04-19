@@ -178,6 +178,11 @@ footer small {
   color:#4e4449;
 }
 
+#work .shiori-resize {
+  max-width: 50%;
+  height: auto;
+}
+
 #contact {
   background-color: #fffffc;
   background-image: url(https://github.com/tokyo2pm/portfolio/blob/master/back3.png?raw=true);
