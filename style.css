@@ -217,4 +217,35 @@ a img:hover {
 
 
 @media screen and (max-width:600px) {
+  body {
+    font-size: 3.5vw;
+  }
+  
+  h1 {
+   font-size: 7.2vw;
+  }
+  
+  h2 {
+    font-size: 6vw;
+  }
+  
+  header {
+    width: auto;
+    margin: 0 5%;
+  }
+  
+  .logo {
+    float: none;
+    margin-top: 60px;
+    text-align: center;
+  }
+  
+  .global-nav {
+    float: none;
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  
+  
 }
