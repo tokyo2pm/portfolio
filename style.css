@@ -179,8 +179,12 @@ footer small {
 }
 
 #work .shiori-resize {
-  max-width: 80%;
+  max-width: 90%;
   height: auto;
+}
+
+a img:hover {
+  opacity: 0.8;
 }
 
 #contact {
