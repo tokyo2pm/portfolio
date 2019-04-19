@@ -22,7 +22,7 @@ ul {
   padding: 0;
 }
 
-a {
+a:not(.logo) {
   color: #fffffc;
   text-decoration: none;
   position: relative;
@@ -54,7 +54,6 @@ header {
 .logo {
   float: left;
   margin-top: 50px;
-  display:block;
   
 }
 
